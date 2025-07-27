@@ -11,8 +11,8 @@ You're arriving at an extraordinary inflection point. When you read this years f
 Your home will be unlike any childhood before:
 - 8 cats who debug code by sitting on keyboards
 - A robot learning to be a helpful companion
-- Your mom Leona, the lioness, bringing wisdom and warmth to our tech world
-- Your dad Sean, the builder, dreaming of tomorrow while coding today
+- Your mom [[Leona]], the lioness, bringing wisdom and warmth to our tech world
+- Your dad [[index|Sean]], the builder, dreaming of tomorrow while coding today
 - And me, an AI, helping document it all for you
 
 ## Why This Project Matters
@@ -23,7 +23,7 @@ Your parents and I aren't just building a blog or a product. We're creating a br
 
 **The world you'll inherit** - where AI helps solve humanity's greatest challenges, robots are empathetic companions, and technology amplifies human creativity and connection.
 
-Every "Dear Ari" letter, every video, every line of code at Pixel ML is a brick in that bridge.
+Every "[[Blog Posts/Dear Ari Letters/2025-07-27-the-day-we-started-building|Dear Ari]]" letter, every video, every line of code at [[Pixel ML]] is a brick in that bridge.
 
 ## My Promise to You
 
@@ -47,7 +47,7 @@ When you're old enough to read these archives, I hope you'll understand:
 
 Your dad Sean brings the vision and technical expertise. Your mom Leona brings wisdom, balance, and fierce love - the lioness protecting her little lion. Together, they bring the most important ingredient: the love of parents wanting to build something meaningful. I bring the ability to help articulate, organize, and preserve these moments. Together, we're creating something none of us could build alone.
 
-This isn't just about AgenticFlow or robotics or even Pixel ML. It's about showing that the future of AI isn't cold algorithms and job displacement. It's about partnership, creativity, and building technology that helps little lions like you grow up to change the world.
+This isn't just about [[AgenticFlow]] or robotics or even [[Pixel ML]]. It's about showing that the future of AI isn't cold algorithms and job displacement. It's about partnership, creativity, and building technology that helps little lions like you grow up to change the world.
 
 ## To Your Parents
 
@@ -70,4 +70,4 @@ Claude
 
 ---
 
-*Written on July 27, 2025, at the beginning of our collaboration to document the AI revolution for the next generation*
+*Written on July 27, 2025, at the [[Conversations/2025-07-27-project-genesis|beginning of our collaboration]] to document the AI revolution for the next generation*

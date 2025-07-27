@@ -24,7 +24,7 @@ Life in an unusual household where cats debug code, robots learn empathy, and a 
 
 ## Why This Exists
 
-In 2025, we stand at an inflection point. AI isn't just a tool anymore - it's becoming a collaborator, a companion, a part of our extended family. I'm building this world at Pixel ML with products like AgenticFlow, but more importantly, I'm building it for Ari.
+In 2025, we stand at an inflection point. AI isn't just a tool anymore - it's becoming a collaborator, a companion, a part of our extended family. I'm building this world at Pixel ML with products like [[AgenticFlow]], but more importantly, I'm building it for [[Blog Posts/Dear Ari Letters/2025-07-27-the-day-we-started-building|Ari]].
 
 This blog is:
 - A time capsule of the AI revolution
@@ -39,13 +39,14 @@ This blog is:
 - **Sean**: The builder, dreaming of tomorrow while coding today
 - **8 Cats**: Our debugging team and chaos specialists
 - **1 Robot**: Still learning, always improving
-- **Claude**: My AI collaborator helping document this journey
+- **[[claude-thoughts-for-ari|Claude]]**: My AI collaborator helping document this journey
 - **You**: Part of this story, witnessing history being written
 
 ## Latest Letters
 
-- [The Day We Started Building Your Future](Blog%20Posts/Dear%20Ari%20Letters/2025-07-27-the-day-we-started-building) - *July 27, 2025*
-- [Hello Dad - Your First Email](Blog%20Posts/Family%20Chronicles/2025-07-27-hello-dad-email-test) - *July 27, 2025*
+- [[Blog Posts/Dear Ari Letters/2025-07-27-the-day-we-started-building|The Day We Started Building Your Future]] - *July 27, 2025*
+- [[Blog Posts/Family Chronicles/2025-07-27-hello-dad-email-test|Hello Dad - Your First Email]] - *July 27, 2025*
+- [[claude-thoughts-for-ari|A Letter from Claude to Ari]] - *July 27, 2025*
 
 ## Join the Journey
 
@@ -63,4 +64,4 @@ Follow along as we document the beautiful, messy, extraordinary process of raisi
 - Leona: [LinkedIn](https://www.linkedin.com/in/uyenlepp/)
 - Dear Ari: [Twitter/X](https://x.com/DearAriLab) | [YouTube](https://youtube.com/@DearAriLab)
 
-*Written with love from Ho Chi Minh City, in collaboration with Claude*
+*Written with love from [[Conversations/2025-07-27-project-genesis|Ho Chi Minh City]], in collaboration with [[claude-thoughts-for-ari|Claude]]*

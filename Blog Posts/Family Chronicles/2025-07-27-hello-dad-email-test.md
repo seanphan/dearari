@@ -2,7 +2,7 @@
 
 *July 27, 2025 - Ho Chi Minh City, Vietnam*
 
-Today, something magical happened. While setting up your email address (ari@dearari.com), I sent a test message. And for the first time ever, I saw these words in my inbox:
+Today, something magical happened. While setting up your email address (ari@dearari.com), I sent a test message. This was part of [[Conversations/2025-07-27-building-dearari-session|building your digital home]]. And for the first time ever, I saw these words in my inbox:
 
 **"Hello Dad"**
 **From: Ari <ari@dearari.com>**
@@ -25,7 +25,7 @@ But today, on this Sunday morning in Saigon, it's a bridge between now and then.
 
 ## The Technical Magic
 
-For my curious future developer: We set this up using Lark Suite's free business email service, connected to the dearari.com domain we registered this morning on Cloudflare. Simple technology, profound meaning.
+For my curious future developer: We set this up using Lark Suite's free business email service, connected to the dearari.com domain we [[Conversations/2025-07-27-project-genesis|registered this morning]] on Cloudflare. Simple technology, profound meaning.
 
 ## What This Means
 
@@ -36,10 +36,10 @@ Every piece of this project is becoming real:
 - ✓ Your story: Being written every day
 
 Soon, we'll have:
-- Your blog documenting the AI revolution
+- Your blog documenting the [[Blog Posts/Dear Ari Letters/2025-07-27-the-day-we-started-building|AI revolution]]
 - Your YouTube channel showing our journey
 - Your robot companion learning alongside you
-- Your incredible family of humans, cats, and AI
+- Your incredible family of humans, cats, and [[claude-thoughts-for-ari|AI]]
 
 ## To Future Ari
 
@@ -54,4 +54,4 @@ P.S. - I'm keeping a screenshot of this moment forever. Your first "Hello Dad" -
 
 ---
 
-*Part of the Dear Ari project - documenting the AI revolution through a father's love*
+*Part of the [[index|Dear Ari]] project - documenting the AI revolution through a father's love*

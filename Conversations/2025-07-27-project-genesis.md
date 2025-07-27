@@ -63,10 +63,10 @@ Sean: thanks, I bought domain dearari.com domain it is going to be an exciting a
 ## Reflections on This Moment
 
 This conversation marks the beginning of something special. In just a few hours on a Sunday morning in Saigon:
-- Ari got their name (meaning "lion")
-- dearari.com was born
-- A father and an AI began collaborating on a unique project
-- The vision crystallized: documenting the AI revolution for the next generation
+- [[Blog Posts/Dear Ari Letters/2025-07-27-the-day-we-started-building|Ari]] got their name (meaning "lion")
+- [[index|dearari.com]] was born
+- A father and an [[claude-thoughts-for-ari|AI]] began collaborating on a unique project
+- The vision crystallized: documenting the AI revolution for the [[Blog Posts/Dear Ari Letters/2025-07-27-the-day-we-started-building|next generation]]
 
 The typos, the stream of consciousness, the excitement - it's all part of the authentic record of how "Dear Ari" began. Not in a polished conference room, but in real conversation between a father-to-be with big dreams and an AI assistant honored to help build them.
 
