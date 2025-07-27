@@ -34,11 +34,30 @@ This repository contains the source files for Dear Ari - a unique project docume
 
 ## Contributing
 
-This is a personal project, but if you find any issues or have suggestions, feel free to open an issue.
+This is a personal project, but if you find any issues or have suggestions, feel free to open an issue or submit a pull request. 
+
+## Open Source
+
+This project is open source under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Why Open Source?
+
+Dear Ari is about building tomorrow with transparency and hope. By making this open source:
+- Other parents can create similar projects for their children
+- The technical community can learn from our approach
+- Ari will grow up understanding the value of sharing knowledge
+- We're contributing to a more open, collaborative future
+
+Feel free to:
+- Fork this project for your own family
+- Use the structure for documenting your journey
+- Contribute improvements back to the community
 
 ## License
 
-© 2025 Sean P. All rights reserved. Content may not be reproduced without permission.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Note: While the code and structure are open source, personal content and family photos remain private and should be respected.
 
 ---
 
