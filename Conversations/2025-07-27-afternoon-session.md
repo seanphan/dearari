@@ -19,7 +19,7 @@ After the morning session where we created dearari.com, Sean returned to continu
 
 ### Adding Leona to the Story
 
-**Sean**: you '/Users/sean/Library/Mobile Documents/iCloudmdobsidian/Documents/dearari/index.md'need to introduce my lovely wife Leona (https://www.linkedin.com/in/uyenlepp/), she is lion and ari is little lion, and my linked in https://www.linkedin.com/in/seanp-ai/ and my twitter https://x.com/SeanP_AI
+**Sean**: you '/Users/sean/Library/Mobile Documents/iCloudmdobsidian/Documents/dearari/index.md'need to introduce my lovely wife Leona, she is lion and ari is little lion, and my linked in https://www.linkedin.com/in/seanp-ai/ and my twitter https://x.com/SeanP_AI
 
 *The lion family was complete - Leona the lioness and Ari the little lion*
 

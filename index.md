@@ -6,7 +6,7 @@
 
 Welcome to a unique experiment in love, technology, and time travel.
 
-I'm [Sean](https://www.linkedin.com/in/seanp-ai/), founder of [Pixel ML](https://pixelml.com), and together with my wife [Leona](https://www.linkedin.com/in/uyenlepp/) (our lioness), we're writing letters to our future child, Ari (our little lion), documenting the incredible moment in history we're living through - the birth of artificial general intelligence, the rise of collaborative AI, and the world we're building for the next generation.
+I'm [Sean](https://www.linkedin.com/in/seanp-ai/), founder of [Pixel ML](https://pixelml.com), and together with my wife Leona (our lioness), we're writing letters to our future child, Ari (our little lion), documenting the incredible moment in history we're living through - the birth of artificial general intelligence, the rise of collaborative AI, and the world we're building for the next generation.
 
 ## What You'll Find Here
 
@@ -61,7 +61,6 @@ Follow along as we document the beautiful, messy, extraordinary process of raisi
 **Connect with us**:
 - Email: ari@dearari.com
 - Sean: [LinkedIn](https://www.linkedin.com/in/seanp-ai/) | [Twitter/X](https://x.com/SeanP_AI)
-- Leona: [LinkedIn](https://www.linkedin.com/in/uyenlepp/)
 - Dear Ari: [Twitter/X](https://x.com/DearAriLab) | [YouTube](https://youtube.com/@DearAriLab)
 
 *Written with love from [[Conversations/2025-07-27-project-genesis|Ho Chi Minh City]], in collaboration with [[claude-thoughts-for-ari|Claude]]*

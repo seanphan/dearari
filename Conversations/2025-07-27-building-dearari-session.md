@@ -60,7 +60,7 @@ This session documents the complete journey of creating dearari.com - from choos
 **Sean**: "before that let's change the wording and modify the date a bit, Don't use future which is badluck, also today is July 27"
 
 ### Adding Leona
-**Sean**: "need to introduce my lovely wife Leona (https://www.linkedin.com/in/uyenlepp/), she is lion and ari is little lion, and my linked in https://www.linkedin.com/in/seanp-ai/ and my twitter https://x.com/SeanP_AI"
+**Sean**: "need to introduce my lovely wife Leona, she is lion and ari is little lion, and my linked in https://www.linkedin.com/in/seanp-ai/ and my twitter https://x.com/SeanP_AI"
 
 ### Final Touch
 **Sean**: "ok we need to finish this session help to document this to '/Users/sean/Library/Mobile Documents/iCloudmdobsidian/Documents/dearari/Conversations', you need to preseve my prompt messahe as it's my authenticity and link it to the document that created, I might back ot this in the afternoon"

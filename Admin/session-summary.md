@@ -36,7 +36,6 @@
 - Live site: https://dearari.com
 - Sean's LinkedIn: https://www.linkedin.com/in/seanp-ai/
 - Sean's Twitter: https://x.com/SeanP_AI
-- Leona's LinkedIn: https://www.linkedin.com/in/uyenlepp/
 
 ## 👨‍👩‍👧 The Family
 - **Ari**: Little lion (future baby)
