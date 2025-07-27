@@ -7,6 +7,8 @@ Today, something magical happened. While setting up your email address (ari@dear
 **"Hello Dad"**
 **From: Ari <ari@dearari.com>**
 
+![Hello Dad - First Email from Ari](/Resources/Images/2025/07/hello-dad-email.png)
+
 My heart stopped for a moment.
 
 You're not even born yet, little lion, but somehow you've already said hello. Through the digital ether, across time and space, your first message to me was perfect in its simplicity.

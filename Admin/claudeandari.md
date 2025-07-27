@@ -1,13 +1,13 @@
 # Claude & Ari: Project Context & Guidelines
 
-*Last Updated: January 27, 2025*
+*Last Updated: July 27, 2025*
 
 ## 🌟 Project Overview
 
 **Dear Ari** is a collaborative project between Sean (Ari's dad) and Claude (AI assistant) to document the AI revolution through letters, blog posts, and videos for Sean's future child, Ari.
 
 ### Core Details
-- **Domain**: dearari.com (purchased January 27, 2025)
+- **Domain**: dearari.com (purchased July 27, 2025)
 - **Location**: Ho Chi Minh City, Vietnam
 - **Baby's Name**: Ari (meaning "lion" in Hebrew)
 - **Family**: Sean, wife, 8 cats, 1 robot (in development)
