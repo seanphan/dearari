@@ -1,0 +1,184 @@
+/* Dear Ari Custom Theme */
+
+/* Import a warmer font */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap');
+
+/* Base styles */
+.theme-light {
+  --background-primary: #fefefe;
+  --background-secondary: #f8f8f8;
+  --text-normal: #2d3436;
+  --text-muted: #636e72;
+  --text-accent: #FF6B35;
+  --interactive-accent: #FF6B35;
+  --link-color: #FF6B35;
+  --h1-color: #2d3436;
+  --h2-color: #2d3436;
+  --h3-color: #2d3436;
+}
+
+.theme-dark {
+  --background-primary: #1a1a1a;
+  --background-secondary: #242424;
+  --text-normal: #e0e0e0;
+  --text-muted: #a0a0a0;
+  --text-accent: #FFE66D;
+  --interactive-accent: #FFE66D;
+  --link-color: #4ECDC4;
+  --h1-color: #FFE66D;
+  --h2-color: #4ECDC4;
+  --h3-color: #e0e0e0;
+}
+
+/* Typography */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: -0.01em;
+}
+
+/* Headers with serif font for warmth */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Crimson Text', Georgia, serif;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+}
+
+h1 {
+  font-size: 2.5em;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 2em;
+  letter-spacing: -0.01em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+/* Warmer link styling */
+a {
+  text-decoration: none;
+  border-bottom: 1px solid var(--link-color);
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  border-bottom-width: 2px;
+  opacity: 0.8;
+}
+
+/* Content width and spacing */
+.markdown-preview-view {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Blockquotes - for special messages */
+blockquote {
+  border-left: 4px solid var(--text-accent);
+  padding-left: 20px;
+  margin: 20px 0;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+/* Code blocks */
+code {
+  background: var(--background-secondary);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+pre code {
+  display: block;
+  padding: 15px;
+  overflow-x: auto;
+}
+
+/* Navigation styling */
+.nav-header {
+  background: var(--background-secondary);
+  padding: 20px;
+  border-bottom: 1px solid var(--text-muted);
+}
+
+.site-header-text {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.8em;
+  font-weight: 600;
+}
+
+/* Make dates and metadata softer */
+.publish-article-date,
+.metadata {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  height: 1px;
+  background: var(--text-muted);
+  opacity: 0.3;
+  margin: 40px 0;
+}
+
+/* Lists with better spacing */
+ul, ol {
+  margin: 1em 0;
+  padding-left: 2em;
+}
+
+li {
+  margin: 0.5em 0;
+}
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  body {
+    font-size: 15px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.6em;
+  }
+  
+  .markdown-preview-view {
+    padding: 20px 15px;
+  }
+}
+
+/* Special "Dear Ari" letter styling */
+.letter-header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.letter-signature {
+  margin-top: 3em;
+  font-style: italic;
+}
+
+/* Warm welcome message */
+.site-body-left-column-site-name::after {
+  content: "Letters to my future child about the AI revolution";
+  display: block;
+  font-size: 0.8em;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: 5px;
+}

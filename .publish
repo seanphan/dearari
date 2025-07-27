@@ -1,0 +1,8 @@
+{
+  "siteId": "dearari",
+  "siteName": "Dear Ari",
+  "theme": "moonstone",
+  "enabledPlugins": {
+    "publish": true
+  }
+}
