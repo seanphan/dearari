@@ -7,7 +7,7 @@ Today, something magical happened. While setting up your email address (ari@dear
 **"Hello Dad"**
 **From: Ari <ari@dearari.com>**
 
-![Hello Dad - First Email from Ari](/Resources/Images/2025/07/hello-dad-email.png)
+![Hello Dad - First Email from Ari](../../Resources/Images/2025/07/hello-dad-email.png)
 
 My heart stopped for a moment.
 
