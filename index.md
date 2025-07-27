@@ -61,6 +61,6 @@ Follow along as we document the beautiful, messy, extraordinary process of raisi
 - Email: ari@dearari.com
 - Sean: [LinkedIn](https://www.linkedin.com/in/seanp-ai/) | [Twitter/X](https://x.com/SeanP_AI)
 - Leona: [LinkedIn](https://www.linkedin.com/in/uyenlepp/)
-- YouTube: Coming soon | Instagram: Coming soon
+- Dear Ari: [Twitter/X](https://x.com/DearAriLab) | [YouTube](https://youtube.com/@DearAriLab)
 
 *Written with love from Ho Chi Minh City, in collaboration with Claude*
